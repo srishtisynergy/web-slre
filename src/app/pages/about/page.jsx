@@ -92,7 +92,7 @@ export default function about() {
                         {"Our Strength Lies"}<br />{"in Our Team."}
                      </h1>
                      <div className=' float-right !mr-20'>
-                        <Image width={"160"} height={"210"} src={"../../assets/images/arrow2.png"} className='object-cover' alt='/' />
+                        <Image width={"160"} height={"210"} src={"/assets/images/arrow2.png"} className='object-cover' alt='/' />
                      </div>
                   </div>
 
@@ -103,7 +103,7 @@ export default function about() {
                   </div>
                </div>
                <div className='flex justify-center'>
-                  <Image width={"1000"} height={"1000"} src={"../../assets/images/strength.png"} className='md:mb-10 w-[500px] h-[300px]' alt='/' />
+                  <Image width={"1000"} height={"1000"} src={"/assets/images/strength.png"} className='md:mb-10 w-[500px] h-[300px]' alt='/' />
                </div>
             </div>
 
@@ -117,7 +117,7 @@ export default function about() {
                         {`Our Core Values:`}<br />{` The Foundation of SLRIS`}
                      </h1>
                      <div className=''>
-                        <Image width={"90"} height={"115"} src={"../../assets/images/arrow3.png"} className='object-cover' alt='/' />
+                        <Image width={"90"} height={"115"} src={"/assets/images/arrow3.png"} className='object-cover' alt='/' />
                      </div>
                   </div>
 
@@ -146,7 +146,7 @@ export default function about() {
                <div className='container mx-auto'>
 
                   <div className='max-w-[1240px] flex flex-row justify-center h-full'>
-                     <Image width={"1000"} height={"1000"} src={"../../assets/images/arrow4.png"} className='w-60 h-10 mt-8' alt='/' />
+                     <Image width={"1000"} height={"1000"} src={"/assets/images/arrow4.png"} className='w-60 h-10 mt-8' alt='/' />
                      <div className=' max-w-2xl'>
                         <h1 className="font-bold md:text-4xl text-2xl text-[#152C4E] text-center mt-6 ">
                            {`Our Portfolio Spectrum`}
