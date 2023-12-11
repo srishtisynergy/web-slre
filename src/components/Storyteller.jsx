@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import React from 'react';
 import NavLogo from '/public/assets/images/logo.png'
-import NavLogo1 from 'public/assets/images/sap-partner.png'
+import NavLogo1 from '/public/assets/images/sap-partner.png'
 
 const Storyteller = () => {
   return (
